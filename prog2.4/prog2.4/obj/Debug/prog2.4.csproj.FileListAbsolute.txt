@@ -1,0 +1,14 @@
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\Консоль\prog2.4\prog2.4\bin\Debug\prog2.4.exe.config
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\Консоль\prog2.4\prog2.4\bin\Debug\prog2.4.exe
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\Консоль\prog2.4\prog2.4\bin\Debug\prog2.4.pdb
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\Консоль\prog2.4\prog2.4\obj\Debug\prog2.4.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\Консоль\prog2.4\prog2.4\obj\Debug\prog2.4.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\Консоль\prog2.4\prog2.4\obj\Debug\prog2.4.exe
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\Консоль\prog2.4\prog2.4\obj\Debug\prog2.4.pdb
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\prog2.4\prog2.4\bin\Debug\prog2.4.exe.config
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\prog2.4\prog2.4\bin\Debug\prog2.4.exe
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\prog2.4\prog2.4\bin\Debug\prog2.4.pdb
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\prog2.4\prog2.4\obj\Debug\prog2.4.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\prog2.4\prog2.4\obj\Debug\prog2.4.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\prog2.4\prog2.4\obj\Debug\prog2.4.exe
+C:\Учебная практика\Неделя 1 Задание 2\Задание 4\prog2.4\prog2.4\obj\Debug\prog2.4.pdb

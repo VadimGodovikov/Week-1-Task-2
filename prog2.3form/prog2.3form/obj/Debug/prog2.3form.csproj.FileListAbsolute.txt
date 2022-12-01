@@ -1,0 +1,20 @@
+C:\Users\host\source\repos\prog2.3form\prog2.3form\bin\Debug\prog2.3form.exe.config
+C:\Users\host\source\repos\prog2.3form\prog2.3form\bin\Debug\prog2.3form.exe
+C:\Users\host\source\repos\prog2.3form\prog2.3form\bin\Debug\prog2.3form.pdb
+C:\Users\host\source\repos\prog2.3form\prog2.3form\obj\Debug\prog2.3form.csprojAssemblyReference.cache
+C:\Users\host\source\repos\prog2.3form\prog2.3form\obj\Debug\prog2._3form.Form1.resources
+C:\Users\host\source\repos\prog2.3form\prog2.3form\obj\Debug\prog2._3form.Properties.Resources.resources
+C:\Users\host\source\repos\prog2.3form\prog2.3form\obj\Debug\prog2.3form.csproj.GenerateResource.cache
+C:\Users\host\source\repos\prog2.3form\prog2.3form\obj\Debug\prog2.3form.csproj.CoreCompileInputs.cache
+C:\Users\host\source\repos\prog2.3form\prog2.3form\obj\Debug\prog2.3form.exe
+C:\Users\host\source\repos\prog2.3form\prog2.3form\obj\Debug\prog2.3form.pdb
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\bin\Debug\prog2.3form.exe.config
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\bin\Debug\prog2.3form.exe
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\bin\Debug\prog2.3form.pdb
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\obj\Debug\prog2.3form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\obj\Debug\prog2._3form.Form1.resources
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\obj\Debug\prog2._3form.Properties.Resources.resources
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\obj\Debug\prog2.3form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\obj\Debug\prog2.3form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\obj\Debug\prog2.3form.exe
+C:\Учебная практика\Неделя 1 Задание 2\Задание 3\prog2.3form\prog2.3form\obj\Debug\prog2.3form.pdb

@@ -21,12 +21,12 @@ namespace prog2._3form
 		private void button1_Click(object sender, EventArgs e)
 		{
 			int A = int.Parse(numericUpDown1.Text, NumberStyles.Float);
-			int B = int.Parse(numericUpDown1.Text, NumberStyles.Float);
-			int x = int.Parse(numericUpDown1.Text, NumberStyles.Float);
+			int B = int.Parse(numericUpDown2.Text, NumberStyles.Float);
+			int x = int.Parse(numericUpDown3.Text, NumberStyles.Float);
 
 			if (A > B)
 			{
-				MessageBox.Show("Конечное число не может быть меньше начального числа.\nПопробуйте ещё раз.");
+				MessageBox.Show("Конечное число не может быть меньше начального числа.");
 			}
 
 			while (A % 10 != x)

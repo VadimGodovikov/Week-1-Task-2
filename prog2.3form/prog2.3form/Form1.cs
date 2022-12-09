@@ -21,44 +21,51 @@ namespace prog2._3form
 		private void button1_Click(object sender, EventArgs e)
 		{
 			int A = int.Parse(numericUpDown1.Text, NumberStyles.Float);
-			int B = int.Parse(numericUpDown1.Text, NumberStyles.Float);
-			int x = int.Parse(numericUpDown1.Text, NumberStyles.Float);
+			int B = int.Parse(numericUpDown2.Text, NumberStyles.Float);
+			int x = int.Parse(numericUpDown3.Text, NumberStyles.Float);
 
 			if (A > B)
 			{
 				MessageBox.Show("Конечное число не может быть меньше начального числа.\nПопробуйте ещё раз.");
+				return;
 			}
-
-			while (A % 10 != x)
+			
+			if(x < 0 || x > 9)
 			{
-				A++;
-			}
-			while (B % 10 != x)
-			{
-				B--;
+				MessageBox.Show("Число на которое должно заканчиваться, должно быть равно числам от 0 до 9");
+				return;
 			}
 
 			int i;
 			textBox1.Text += "For: " + Environment.NewLine;
-			for (i = A; i <= B; i += 10)
+			for (i = A; i <= B; i++)
 			{
-				textBox1.Text += i.ToString() + Environment.NewLine;
+				if (Math.Abs(i % 10) == x)
+				{
+					textBox1.Text += i.ToString() + Environment.NewLine;
+				}
 			}
 
 			textBox2.Text += "While: " + Environment.NewLine;
 			i = A;
 			while (i <= B)
 			{
-				textBox2.Text += i.ToString() + Environment.NewLine;
-				i += 10;
+				if (Math.Abs(i % 10) == x)
+				{
+					textBox2.Text += i.ToString() + Environment.NewLine;
+				}
+				i++;
 			}
 
 			textBox3.Text += "Do While: " + Environment.NewLine;
 			i = A;
 			do
 			{
-				textBox3.Text += i.ToString() + Environment.NewLine;
-				i += 10;
+				if (Math.Abs(i % 10) == x)
+				{
+					textBox3.Text += i.ToString() + Environment.NewLine;
+				}
+				i++;
 			}
 			while (i <= B);
 

@@ -8,3 +8,13 @@ C:\Учебная практика\Неделя 1 Задание 2\Задани�
 C:\Учебная практика\Неделя 1 Задание 2\Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2.2form.csproj.CoreCompileInputs.cache
 C:\Учебная практика\Неделя 1 Задание 2\Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2.2form.exe
 C:\Учебная практика\Неделя 1 Задание 2\Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2.2form.pdb
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\bin\Debug\prog2.2form.exe.config
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\bin\Debug\prog2.2form.exe
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\bin\Debug\prog2.2form.pdb
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2.2form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2._2form.Form1.resources
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2._2form.Properties.Resources.resources
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2.2form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2.2form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2.2form.exe
+C:\Учебная практика\Неделя 1 Задание 2\prog2.2form\prog2.2form\obj\Debug\prog2.2form.pdb

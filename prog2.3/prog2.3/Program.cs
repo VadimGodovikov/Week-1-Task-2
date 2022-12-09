@@ -49,36 +49,36 @@ namespace prog2._3
 				goto x1;
 			}
 
-			while (A % 10 != x)
-			{
-				A++;
-			}
-			while (B % 10 != x)
-			{
-				B--;
-			}
-
-			int i;
+			int i = 0;
 			Console.WriteLine("\nFor: ");
-			for(i = A; i <= B; i+=10)
+			for(i = A; i <= B; i++)
 			{
-				Console.WriteLine(i);
+				if(Math.Abs(i % 10) == x)
+				{
+					Console.WriteLine(i);
+				}
 			}
 
 			Console.WriteLine("\nWhile: ");
 			i = A;
 			while (i <= B)
 			{
-				Console.WriteLine(i);
-				i += 10;
+				if (Math.Abs(i % 10) == x)
+				{
+					Console.WriteLine(i);
+				}
+				i++;
 			}
 			
 			Console.WriteLine("\nDo While: ");
 			i = A;
 			do
 			{
-				Console.WriteLine(i);
-				i += 10;
+				if (Math.Abs(i % 10) == x)
+				{
+					Console.WriteLine(i);
+				}
+				i++;
 			}
 			while (i <= B);
 

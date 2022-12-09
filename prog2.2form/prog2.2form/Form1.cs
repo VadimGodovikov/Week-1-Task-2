@@ -20,25 +20,27 @@ namespace prog2._2form
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			int Day = int.Parse(numericUpDown1.Text, NumberStyles.Float);
-			int Month = int.Parse(numericUpDown2.Text, NumberStyles.Float);
-			int Year = int.Parse(numericUpDown3.Text, NumberStyles.Float);
-			int m = int.Parse(numericUpDown4.Text, NumberStyles.Float);
-
 			
-			textBox1.Text = "Результат программы:" + Environment.NewLine;
-			textBox1.Text += "Ваша дата: " + Day + " / " + Month + " / " + Year + Environment.NewLine;
-			while (m > 0)
+			int m = int.Parse(numericUpDown4.Text, NumberStyles.Float);
+			if (m < 0)
 			{
-				Month--;
-				if(Month <= 0)
-				{
-					Year--;
-					Month = 12;
-				}
-				m--;
+				MessageBox.Show("Кол-во прошедших месяцев не может быть меньше 0. Введите корректное число(0-...)");
+				return;
 			}
-			textBox1.Text += "Конечная искомая дата: " + Day + " / " + Month + " / " + Year + Environment.NewLine;
+
+
+			textBox1.Text = "Результат программы:" + Environment.NewLine;
+			DateTime dt = new DateTime();
+			dt = DateTime.Now;
+			textBox1.Text += $"Ваша дата: {dt}\r\n";
+
+			dt = DateTime.Now.AddMonths(-m);
+			textBox1.Text += $"Конечная искомая дата: {dt}";
+		}
+
+		private void label5_Click(object sender, EventArgs e)
+		{
+
 		}
 	}
 }
